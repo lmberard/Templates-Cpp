@@ -1,0 +1,7 @@
+Implementar un template de una función C++, preorder_search<>, que permita determinar eficientemente si un dado número pertenece o no a un árbol binario de búsqueda a partir de su recorrido preorden.
+
+La implementación provista deberá ser tal que pase las regresiones provistas en el archivo test.cpp, el cual no debe ser modificado. El archivo preorder.h contiene un esqueleto de preorder_search<> para ser completado y así resolver este ejercicio. Ver archivo ejercicio-3.zip.
+
+La implementación deberá ser subida al campus como un único archivo zip que permita compilar y ejecutar los casos de prueba usando el Makefile provisto.
+
+El archivo deberá estar subido al campus antes de las 22:15 hs, de lo contrario no se contabilizará la entrega.
